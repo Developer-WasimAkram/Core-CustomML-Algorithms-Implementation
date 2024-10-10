@@ -1,1 +1,1 @@
-test
+Welcome to the Core Custom ML Algorithms Implementation repository! This project showcases the foundational implementations of various machine learning algorithms designed to provide a clear understanding of their inner workings.

@@ -1,1 +1,0 @@
- This repository contains an implementation of ML algorithm, e.g., "Linear Regression," "K-Means Clustering," "Decision Trees" from scratch using Python. The goal of this project is to provide a clear and educational example of how the algorithm works internally, making it easier to understand the underlying principles of machine learning.

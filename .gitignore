@@ -15,6 +15,13 @@ downloads/
 eggs/
 .eggs/
 .env
+# Ignore virtual environments
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
 lib/
 lib64/
 parts/
